@@ -1,4 +1,4 @@
-# fundus
+# FUNDUS
 
 ## Getting Started
 
